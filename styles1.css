@@ -1,0 +1,42 @@
+h1 {
+	text-align:center;
+	font-family:Verdana;
+}
+h3{
+	text-align:left;
+	font-family:Lato;
+}  
+img{
+	width:40%;   
+}
+Body{
+	background-image:
+	linear-gradient(#42275a,#734b6d);
+	background-repeat:no-repeat;
+	background-size:cover;   
+}
+.a{
+	color:#a2ad9c;    
+}
+.aa{
+	color:#6b8e23;    
+}
+.aaa{
+	color:blue;    
+}
+    
+.center{
+   margin-right: auto;
+   margin-left: auto;
+   display:block;
+}
+p{
+	font-family:Poppins;text-align:center;
+}
+.underline{
+	text-decoration:underline;    
+}
+.ul1{
+	font-family:Fascinate;    
+}
+      

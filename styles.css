@@ -1,0 +1,76 @@
+h1,p,article{
+	color:white;
+    font-family:roboto;
+}
+h1{
+    text-align:center;
+}
+body{
+	background-color:black;
+}
+.yeat1{
+	border-radius:50%;
+    border: 2px solid grey;
+    width:220px;
+    margin-left:-2px;
+}
+.bio{
+    border: 5px solid grey;
+    width:220px;
+    padding:2px;
+    float:left;
+    position:absolute;
+}
+.vids{
+	float:right;
+	width:220px;
+    border: 5px solid grey;
+    display:inline;
+}
+.vids1{
+	width:215px;
+}
+.article1{
+	text-align:center;
+    float:right;
+    width:230px;
+    display:block;
+    justify-content:center;
+}
+.chat{
+	display:flex;
+    justify-content:space-around;
+    background-color:grey;
+    width:500px;
+    height:50px;
+    margin-left:300px;
+    padding:2px;
+    margin:20px;
+}
+.bruh{
+	font-size:12px;
+    margin-top:16px;    
+}
+.article2{
+margin-left:300px;    
+}
+.chat1{
+    background-color:grey;
+    width:500px;
+    height:500px;
+    margin-left:300px;
+    padding:2px;
+    margin:20px;
+    margin-top:-20px;
+    display:flex;
+    justify-content:center;
+}
+.yeat2{
+margin-left:-18px;    
+}
+.yeat3{
+margin-left:-74px;    
+}
+
+
+    
